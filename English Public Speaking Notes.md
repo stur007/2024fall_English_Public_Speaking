@@ -26,7 +26,7 @@ introduction part -- hooks for opening
 
 ### The Language of Expository Speeches
 
-![image-20241221191109415](C:\Users\HP\AppData\Roaming\Typora\typora-user-images\image-20241221191109415.png)
+![](https://raw.githubusercontent.com/stur007/img/main/img/202412280955157.png)
 
 alliteration 压头韵
 
